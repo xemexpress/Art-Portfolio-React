@@ -1,0 +1,207 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-54.5 60.5 1294.4 1080">
+  <defs>
+    <style>
+      
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        stroke: rgba(250,229,255,0.9);
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path-2);
+      }
+    
+    </style>
+    <clipPath>
+      <rect class="cls-1" width="1277.4" height="1080"/>
+    </clipPath>
+    <clipPath>
+      <rect class="cls-1" width="1294.4" height="1061"/>
+    </clipPath>
+  </defs>
+  <g data-name="Group 20" transform="translate(-55 60)">
+    <g data-name="Repeat Grid 1" class="cls-2" transform="translate(17.546 0.5)">
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(-16.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(3.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(23.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(43.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(63.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(83.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(103.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(123.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(143.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(163.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(183.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(203.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(223.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(243.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(263.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(283.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(303.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(323.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(343.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(363.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(383.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(403.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(423.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(443.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(463.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(483.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(503.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(523.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(543.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(563.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(583.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(603.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(623.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(643.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(663.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(683.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(703.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(723.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(743.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(763.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(783.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(803.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(823.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(843.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(863.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(883.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(903.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(923.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(943.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(963.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(983.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(1003.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(1023.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(1043.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(1063.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(1083.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(1103.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(1123.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(1143.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(1163.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(1183.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(1203.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(1223.5 -0.5)translate(16.5 0.5)"/>
+        <line data-name="Line 1" class="cls-3" y2="1080" transform="translate(1243.5 -0.5)translate(16.5 0.5)"/>
+    </g>
+    <g data-name="Repeat Grid 2" class="cls-4" transform="translate(0.5 19.5)">
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 -19.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 -19.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 0.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 0.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 20.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 20.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 40.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 40.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 60.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 60.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 80.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 80.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 100.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 100.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 120.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 120.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 140.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 140.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 160.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 160.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 180.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 180.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 200.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 200.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 220.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 220.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 240.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 240.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 260.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 260.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 280.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 280.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 300.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 300.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 320.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 320.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 340.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 340.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 360.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 360.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 380.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 380.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 400.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 400.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 420.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 420.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 440.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 440.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 460.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 460.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 480.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 480.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 500.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 500.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 520.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 520.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 540.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 540.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 560.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 560.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 580.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 580.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 600.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 600.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 620.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 620.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 640.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 640.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 660.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 660.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 680.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 680.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 700.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 700.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 720.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 720.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 740.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 740.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 760.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 760.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 780.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 780.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 800.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 800.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 820.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 820.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 840.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 840.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 860.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 860.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 880.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 880.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 900.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 900.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 920.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 920.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 940.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 940.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 960.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 960.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 980.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 980.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 1000.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 1000.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 1020.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 1020.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(-0.5 1040.5)translate(0.5 19.5)"/>
+        <line data-name="Line 2" class="cls-3" x2="1215" transform="translate(1234.5 1040.5)translate(0.5 19.5)"/>
+    </g>
+  </g>
+</svg>
